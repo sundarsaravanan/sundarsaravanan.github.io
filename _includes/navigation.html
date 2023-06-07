@@ -18,13 +18,22 @@
                         <a href="#page-top"></a>
                     </li>
 
-                    {% for page in site.pages | sort: "title" %}
+                    <!-- {% for page in site.pages | sort: "title" %}
                     {% unless page.url == "/index.html" or page.url == "/" %}
                     <li>
                         <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
                     </li>
                     {% endunless %}
-                    {% endfor %}
+                    {% endfor %} -->
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#career">Career</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#projects">Projects</a>
+                    </li>
                     <li>
                         <a target="_blank" href="./pdf/resume.pdf">Resume</a>
                     </li>
