@@ -1,7 +1,7 @@
 ---
 layout: null
-title: July 2020 - December 2021
-subtitle:
+title: ServiceNow | Software Engineer
+subtitle: July 2020 - December 2021
 image: "img/timeline/4.jpg"
 ---
-ServiceNow | Software Engineer
+NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase
