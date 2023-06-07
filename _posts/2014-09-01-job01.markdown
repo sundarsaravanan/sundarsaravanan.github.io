@@ -4,4 +4,4 @@ title: Freelancer | Website Developer
 subtitle: Sept '14 - May '17
 image: "img/timeline/freelancer.jpg"
 ---
-NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase
+PHP, DigitalOcean, HTML5, Cascading Style Sheets (CSS), MySQL

@@ -4,4 +4,4 @@ title: University of Pittsburgh | Application Developer
 subtitle: Mar '23 - Present
 image: "img/timeline/upitt.jpeg"
 ---
-NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase
+Python, Flutter, MySQL, Android, iOS
