@@ -1,0 +1,7 @@
+---
+layout: null
+title: June 2017 - July 2017
+subtitle:
+image: "img/timeline/2.jpg"
+---
+Deducely | Big Data Engineer Intern
