@@ -1,7 +1,7 @@
 ---
 layout: null
-title: University of Pittsburgh | Mar '23 - Present
-subtitle: Co-Op | Application Developer
-image: "img/timeline/4.jpg"
+title: University of Pittsburgh | Application Developer
+subtitle: Mar '23 - Present
+image: "img/timeline/upitt.jpeg"
 ---
 NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase

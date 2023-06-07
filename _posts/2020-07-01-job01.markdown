@@ -1,7 +1,7 @@
 ---
 layout: null
-title: ServiceNow | July '20 - Dec '21
-subtitle: Software Engineer
+title: ServiceNow | Software Engineer 
+subtitle: July '20 - Dec '21
 image: "img/timeline/servicenow.jpeg"
 ---
 NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase

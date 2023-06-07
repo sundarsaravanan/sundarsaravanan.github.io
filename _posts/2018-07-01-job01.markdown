@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Zoho Corporation | July '18 - June '19
-subtitle: Member of Technical Staff
+title: Zoho Corporation | Member of Technical Staff
+subtitle: July '18 - June '19
 image: "img/timeline/zoho.jpeg"
 ---
 NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase

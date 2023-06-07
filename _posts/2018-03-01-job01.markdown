@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Zoho Corporation | Mar '18 - June '18
-subtitle: Intern
+title: Zoho Corporation | Intern
+subtitle: Mar '18 - June '18
 image: "img/timeline/zoho.jpeg"
 ---
 NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase
