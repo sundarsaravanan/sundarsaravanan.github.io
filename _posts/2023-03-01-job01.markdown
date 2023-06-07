@@ -1,7 +1,7 @@
 ---
 layout: null
-title: March 2023 - Present
-subtitle:
+title: University of Pittsburgh | Mar '23 - Present
+subtitle: Co-Op | Application Developer
 image: "img/timeline/4.jpg"
 ---
-University of Pittsburgh | Co-Op | Application Developer
+NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase

@@ -1,7 +1,7 @@
 ---
 layout: null
-title: July 2019 - June 2020
-subtitle:
-image: "img/timeline/4.jpg"
+title: GoSchedule | July '19 - June '20
+subtitle: Software Engineer
+image: "img/timeline/goschedule.jpeg"
 ---
-GoSchedule | Software Engineer
+NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase

@@ -1,7 +1,7 @@
 ---
 layout: null
-title: June 2017 - July 2017
-subtitle:
-image: "img/timeline/2.jpg"
+title: Deducely | June '17 - July '17
+subtitle: Big Data Engineer Intern
+image: "img/timeline/deducely.jpeg"
 ---
-Deducely | Big Data Engineer Intern
+NodeJS, AngularJS, ExpressJS, Flask, Flutter, Git, Docker, Google Firebase
