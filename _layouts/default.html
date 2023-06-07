@@ -42,7 +42,8 @@
       <section id="{{ page.title }}" class="container content-section text-center">
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
-                <img class="img-responsive" src="{{ site.baseurl }}/img/recommendations.png" alt=""/>
+                {{ page.content | markdownify }}
+                <img class="img-responsive center-block" src="{{ site.baseurl }}/img/recommendations.png" alt=""/>
               </div>
           </div>
       </section>
@@ -80,7 +81,7 @@
 
                   <li class="timeline-inverted">
                     <div class="timeline-image">
-                      <img class="img-circle img-responsive" src="{{ site.baseurl }}/{{ site.career-img }}" alt="">
+                      <!-- <img class="img-circle img-responsive" src="{{ site.baseurl }}/{{ site.career-img }}" alt=""> -->
                     </div>
                   </li>
    
